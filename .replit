@@ -1,0 +1,19 @@
+# Replit Configuration
+# This file helps Replit understand how to run your project
+
+# Uncomment and configure based on your project type:
+
+# For Python projects:
+# run = "python main.py"
+# language = "python3"
+
+# For Node.js projects:
+# run = "node index.js"
+# language = "nodejs"
+
+# For web projects:
+# run = "npm start"
+# language = "nodejs"
+
+# Default entrypoint
+entrypoint = "README.md"
