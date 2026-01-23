@@ -17,3 +17,10 @@
 
 # Default entrypoint
 entrypoint = "README.md"
+
+[agent]
+expertMode = true
+
+[[ports]]
+localPort = 5000
+externalPort = 80
